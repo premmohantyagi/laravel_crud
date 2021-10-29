@@ -2,7 +2,7 @@
 This is a simple laravel CRUD app.
 
 
-## How to install and run on your local system
+# How to install and run on your local system
 1. git clone https://github.com/premmohantyagi/laravel_crud.git
 2. cd laravel_crud/
 3. composer install
@@ -14,7 +14,7 @@ This is a simple laravel CRUD app.
 9. php artisan serve (if the server opens up, http://127.0.0.1:8000,  then we are good to go)
 
 
-## Operations
+# Operations
 1. Create a project
 2. View a project
 3. Edit a project
