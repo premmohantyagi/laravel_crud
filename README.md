@@ -1,10 +1,10 @@
-# laravel_8_crud
-This is a simple laravel 8 CRUD app.
+# laravel_crud
+This is a simple laravel CRUD app.
 
 
 ## How to install and run on your local system
 1. git clone https://github.com/premmohantyagi/laravel_crud.git
-2. cd laravel_8_crud/
+2. cd laravel_crud/
 3. composer install
 4. npm install
 5. cp .env.example .env
