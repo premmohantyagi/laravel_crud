@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2>Laravel 8 CRUD </h2>
+                <h2>Laravel CRUD </h2>
             </div>
             <div class="pull-right">
                 <a class="btn btn-success" href="{{ route('projects.create') }}" title="Create a project"> <i class="fas fa-plus-circle"></i>
@@ -21,7 +21,7 @@
 
     <table class="table table-bordered table-responsive-lg">
         <tr>
-            <th>No</th>
+            <th>ID</th>
             <th>Name</th>
             <th>Introduction</th>
             <th>Location</th>
